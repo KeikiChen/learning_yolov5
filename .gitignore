@@ -1,4 +1,4 @@
 .obsidian/
 ANNOTATIONS/
-IMAGES/
-LABELS/
+train/
+valid/
